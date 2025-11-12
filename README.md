@@ -11,3 +11,6 @@ Powershell
   -Body '{"name":"Tea","price":1.75}'
 
   <img width="729" height="164" alt="image" src="https://github.com/user-attachments/assets/2eb600cc-eee1-4f77-abc4-f015bdafa3fc" />
+
+  <img width="959" height="640" alt="image" src="https://github.com/user-attachments/assets/5c8dedd9-cda2-424d-8b07-118aea8122fd" />
+
