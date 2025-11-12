@@ -1,15 +1,8 @@
 npm install
 npm start
 
-node-rest-soap/
-├─ package.json
-├─ server.js
-├─ routes/
-│  └─ items.js
-├─ soap/
-│  └─ soapService.js
-└─ wsdl/
-   └─ hello.wsdl
+<img width="523" height="183" alt="image" src="https://github.com/user-attachments/assets/91eddfb5-8ccc-404b-9a92-579c84b1f4c1" />
+
 
 Powershell
    Invoke-RestMethod -Uri "http://localhost:3000/api/items" `
