@@ -1,8 +1,10 @@
 npm install
-npm start
 
 <img width="523" height="183" alt="image" src="https://github.com/user-attachments/assets/91eddfb5-8ccc-404b-9a92-579c84b1f4c1" />
 
+npm start
+
+<img width="575" height="277" alt="image" src="https://github.com/user-attachments/assets/edf26af7-afef-432b-990a-92c229def00a" />
 
 Powershell
    Invoke-RestMethod -Uri "http://localhost:3000/api/items" `
